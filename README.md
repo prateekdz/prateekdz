@@ -1,24 +1,39 @@
-# 💫 About Me:
-Hi, I'm Prateek Dwivedi — a Software Engineer with hands-on experience in full-stack<br> development using React.js, Node.js and Express.js. I build responsive, user-friendly<br> interfaces, develop REST APIs and integrate frontend + backend systems end-to-end.<br>​<br>I've built a Zerodha-inspired trading simulation platform (React + Node + MongoDB) with authentication,<br> role-based access and real-time-like UI updates, and I maintain a personal portfolio site <br>to showcase my projects. I'm strengthening my cloud fundamentals with AWS (EC2/S3) and<br> I hold certifications including CEH and AWS Academy Cloud Foundations.<br>​<br>When I'm not coding, I like to travel, play chess, and read books.<br>​
+👋 Hi, I’m Prateek Dwivedi.
+<br> <a href="#"> <img align="left" width="36" alt="Prateek LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a> <a href="#"> <img align="left" width="36" alt="Prateek Twitter" src="https://img.icons8.com/fluency/48/000000/twitter.png"/> </a> <a href="#"> <img align="left" width="36" alt="Prateek Instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a> <a href="#"> <img align="left" width="36" alt="Prateek Behance" src="https://img.icons8.com/color/48/000000/behance.png"/> </a> <a href="#"> <img align="left" width="36" alt="Prateek Dribbble" src="https://img.icons8.com/fluency/48/000000/dribbble-circled.png" /> </a> <a href="#"> <img align="left" width="36" alt="Prateek Medium" src="https://img.icons8.com/color/48/000000/medium-monogram.png"/> </a> <a href="https://prateekdz.github.io/Prateekd/"> <img align="left" width="36" alt="Prateek Portfolio" src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/> </a>
 
+<br><br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prateekdz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prateek-dwivedi-449b5b24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pdwivedi0120@gmail.com) 
+👀 I’m interested in Design and Web Development.
+🚩 I’m a Software Engineer focused on full‑stack development using React.js, Node.js and Express.js.
+👾 Experienced in developing REST APIs and integrating frontend and backend systems; wrote unit tests for frontend and backend to improve stability.
+🎯 Current Goal: Building responsive, performant web applications with modern workflows and AWS cloud fundamentals (EC2, S3 - basic).
+🌻 Comfortable working with Redux and React Hooks to build reusable UI components and improve user experience.
+⭐ Delivered project work including secure authentication, role-based access, and live data updates without page refresh.
+✉️ Contact me at : <a href="mailto:pdwivedi0120@gmail.com"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%8C&message=pdwivedi0120@gmail.com&labelColor=4E4E4E&height=30&color=FB8C01" alt="pdwivedi0120@gmail.com" valign="middle"></a>
+<br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prateekdz&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prateekdz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+🔨 Tools and Technologies
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tailwindcss/tailwindcss.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
+<code><img width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prateekdz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📈 GitHub Stats
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdz&theme=vision-friendly-dark&count_private=true&hide=html" alt="Prateek's Most Used Languages" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekdz&show_icons=true&theme=vision-friendly-dark" alt="Prateek's GitHub Stats" /> <br>
 
----
-[![](https://visitcount.itsvg.in/api?id=prateekdz&icon=0&color=0)](https://visitcount.itsvg.in)
+🔥 My Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekdz" alt="GitHub Streak">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+🐍 Watch a snake eating my GitHub Contribution Graph
+<img src="https://github.com/prateekdz/prateekdz/blob/output/github-contribution-grid-snake.gif" alt="Snake gif">
